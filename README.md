@@ -1,5 +1,5 @@
 
-# book_sample_ivan
+# book_sample_ivan_eclipse
 Backend Java Spring - Practice Project
 
 ## Run Locally
